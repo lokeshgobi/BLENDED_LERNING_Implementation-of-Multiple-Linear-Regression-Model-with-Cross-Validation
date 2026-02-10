@@ -9,11 +9,12 @@ To write a program to predict the price of cars using a multiple linear regressi
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+```
 1.Import libraries, load the car price dataset, clean data, and convert categorical values using encoding.
 2.Separate features (X) and target (price), then split into training and testing sets.
 3.Train the Linear Regression model and evaluate performance using cross-validation.
 4.Predict on test data, compute MSE/MAE/R², and plot actual vs predicted prices.
-
+```
 ## Program:
 ```
 /*
