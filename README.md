@@ -72,6 +72,8 @@ plt.show()
 ```
 ## Output:
 
+![WhatsApp Image 2026-04-02 at 9 20 32 PM](https://github.com/user-attachments/assets/98a63f2e-2d80-4845-aadd-451e839cec48)
+
 <img width="1061" height="690" alt="image" src="https://github.com/user-attachments/assets/a31ab5ca-7332-407b-a1f9-5bdc286f5ea3" />
 
 
